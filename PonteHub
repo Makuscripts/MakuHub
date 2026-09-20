@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ponte01/PonteHub/refs/heads/main/script"))()
